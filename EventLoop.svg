@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="160mm"
+   viewBox="0 0 210 160"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="EventLoop.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7500982"
+     inkscape:cx="508.60007"
+     inkscape:cy="399.28105"
+     inkscape:window-width="1600"
+     inkscape:window-height="869"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.265693"
+       id="rect31"
+       width="210"
+       height="160"
+       x="-1.110223e-16"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="88.808487"
+       y="54.174286"
+       id="text2218-3"><tspan
+         sodipodi:role="line"
+         id="tspan2216-56"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="88.808487"
+         y="54.174286">Tareas Programadas</tspan></text>
+    <g
+       id="g255"
+       transform="matrix(0.05318372,0,0,0.05318372,73.35352,82.545379)"
+       style="fill:#ffffff">
+      <path
+         d="m 479.971,32.18 c -21.72,21.211 -42.89,43 -64.52,64.301 -1.05,1.23 -2.26,-0.16 -3.09,-0.85 C 387.85,71.651 357.781,53.35 325.14,42.791 287.54,30.631 246.691,28.721 208.111,37.201 139.441,51.871 79.3,101.26 51.671,165.81 c 0.031,0.014 0.062,0.025 0.093,0.039 -2.3,4.537 -3.605,9.666 -3.605,15.1 0,18.475 14.977,33.451 33.451,33.451 15.831,0 29.084,-11.002 32.555,-25.773 19.757,-41.979 58.832,-74.445 103.967,-85.527 52.2,-13.17 111.37,1.33 149.4,40.041 -22.03,21.83 -44.391,43.34 -66.33,65.26 59.52,-0.32 119.06,-0.141 178.59,-0.09 0.499,-58.7 0.139,-117.42 0.179,-176.131 z"
+         id="path251"
+         style="fill:#ffffff" />
+      <path
+         d="m 431.609,297.5 c -14.62,0 -27.041,9.383 -31.591,22.453 -0.009,-0.004 -0.019,-0.008 -0.027,-0.012 -19.11,42.59 -57.57,76.219 -102.84,88.18 -52.799,14.311 -113.45,0.299 -152.179,-39.051 21.92,-21.76 44.369,-43.01 66.189,-64.869 -59.7,0.049 -119.41,0.029 -179.11,0.01 -0.14,58.6 -0.159,117.189 0.011,175.789 21.92,-21.91 43.75,-43.91 65.79,-65.699 14.109,13.789 29.76,26.07 46.92,35.869 54.739,31.971 123.399,38.602 183.299,17.891 57.477,-19.297 106.073,-63.178 131.212,-118.318 3.645,-5.357 5.776,-11.824 5.776,-18.793 10e-4,-18.473 -14.976,-33.45 -33.45,-33.45 z"
+         id="path253"
+         style="fill:#ffffff" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.294647"
+       y="151.27562"
+       id="text2218"><tspan
+         sodipodi:role="line"
+         id="tspan2216"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="27.294647"
+         y="151.27562">Pila</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="128.57906"
+       y="139.12987"
+       id="text2218-2"><tspan
+         sodipodi:role="line"
+         id="tspan2216-7"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="128.57906"
+         y="139.12987">Fila de tareas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="85.583153"
+       y="119.88811"
+       id="text2218-7"><tspan
+         sodipodi:role="line"
+         id="tspan2216-5"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="85.583153"
+         y="119.88811">Event</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="85.583153"
+         y="133.11722"
+         id="tspan6946">Loop</tspan></text>
+    <g
+       id="g9346">
+      <rect
+         style="fill:#ffffff;stroke-width:0.241986"
+         id="rect305"
+         width="46.672653"
+         height="87.987854"
+         x="14.742669"
+         y="53.364563" />
+      <rect
+         style="fill:#000000;stroke-width:0.2294"
+         id="rect9324"
+         width="42.574162"
+         height="86.685661"
+         x="16.791916"
+         y="52.36969" />
+    </g>
+    <rect
+       style="fill:#ff9955;stroke-width:0.221934"
+       id="rect9370"
+       width="40.604328"
+       height="15.67187"
+       x="17.74404"
+       y="122.41922" />
+    <rect
+       style="fill:#ac9393;stroke-width:0.221934"
+       id="rect9474"
+       width="40.604328"
+       height="15.67187"
+       x="17.74404"
+       y="104.95676" />
+    <rect
+       style="fill:#ff5555;stroke-width:0.221934"
+       id="rect9476"
+       width="40.604328"
+       height="15.67187"
+       x="17.74404"
+       y="87.494255" />
+    <rect
+       style="fill:#ffdd55;stroke-width:0.221934"
+       id="rect9478"
+       width="40.604328"
+       height="15.67187"
+       x="17.74404"
+       y="70.031738" />
+    <g
+       id="g11481"
+       transform="translate(0,33.866682)">
+      <rect
+         style="fill:#ffffff;stroke-width:0.224099"
+         id="rect9522"
+         width="141.37334"
+         height="19.253151"
+         x="64.566833"
+         y="25.132557" />
+      <rect
+         style="fill:#000000;stroke-width:0.217156"
+         id="rect9650"
+         width="143.73579"
+         height="17.781437"
+         x="63.385609"
+         y="25.868414" />
+    </g>
+    <g
+       id="g11481-2"
+       transform="matrix(0.66874674,0,0,1,67.428409,81.371549)">
+      <rect
+         style="fill:#ffffff;stroke-width:0.224099"
+         id="rect9522-9"
+         width="141.37334"
+         height="19.253151"
+         x="64.566833"
+         y="25.132557" />
+      <rect
+         style="fill:#000000;stroke-width:0.217156"
+         id="rect9650-1"
+         width="143.73579"
+         height="17.781437"
+         x="63.385609"
+         y="25.868414" />
+    </g>
+  </g>
+</svg>
