@@ -16,3 +16,9 @@ let timerDesconexion = setTimeout(() => {
 }, 3000);
 
 clearTimeout(timerDesconexion);
+
+let mensaje = "hola";
+
+for (let i = 0; i < 10; i++) {
+    setTimeout(() => console.log(mensaje), 1000);
+}
