@@ -1,4 +1,4 @@
-let array = [1, 2, 3]
+let array = [1, 2, 3];
 
 function leyendo() {
     setTimeout(() => {
@@ -8,6 +8,6 @@ function leyendo() {
 
 function leer(functionParam) {
     functionParam();
-}
+}   
 
 leer(leyendo);
